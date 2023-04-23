@@ -1,0 +1,3 @@
+nako,2003,15,simple,Pablo,0
+josepedro,1992,5,media,Jose,0
+ChatGPT,2014,45,avanzada,Charman,0

@@ -1,0 +1,3 @@
+Pablo,2456,mejora de ia,32
+Charman,2312,programador,31
+Jose,1842,ia master,30
