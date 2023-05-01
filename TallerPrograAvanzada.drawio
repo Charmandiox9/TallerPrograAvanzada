@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-04-30T23:50:10.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="Nevxzgou7mu5jl7eKWSi" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T00:00:54.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="tpryLxY7XhZBgoRuwxJi" version="21.2.3" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="1512" dy="1864" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="508" dy="1262" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1ea317790d2ca983-13" value="Se crea scanner y" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#E07A5F;strokeWidth=1;fontFamily=Verdana;fontSize=12;fontColor=default;" parent="1" source="1ea317790d2ca983-1" target="1ea317790d2ca983-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IchzYvAacnoV2I44q3jx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1ea317790d2ca983-1" edge="1" target="IchzYvAacnoV2I44q3jx-7">
+        <mxCell id="IchzYvAacnoV2I44q3jx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1ea317790d2ca983-1" target="IchzYvAacnoV2I44q3jx-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="325" y="-755" as="targetPoint" />
             <Array as="points">
@@ -198,9 +198,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IchzYvAacnoV2I44q3jx-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IchzYvAacnoV2I44q3jx-62" target="IchzYvAacnoV2I44q3jx-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IchzYvAacnoV2I44q3jx-62" value="Mejora de IA" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="-215" y="-275" width="133.75" height="75" as="geometry" />
         </mxCell>
@@ -210,16 +207,11 @@
         <mxCell id="IchzYvAacnoV2I44q3jx-64" value="IA Master" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="-215" y="-85" width="133.75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="IchzYvAacnoV2I44q3jx-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IchzYvAacnoV2I44q3jx-65" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-140" y="-290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IchzYvAacnoV2I44q3jx-65" value="IA a mejorar" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="-215" y="-390" width="133.75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="IchzYvAacnoV2I44q3jx-66" value="Se pregunta" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#E07A5F;strokeWidth=1;fontFamily=Verdana;fontSize=12;fontColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="IchzYvAacnoV2I44q3jx-62" target="IchzYvAacnoV2I44q3jx-65" edge="1">
-          <mxGeometry x="-0.0109" relative="1" as="geometry">
+          <mxGeometry y="-3" relative="1" as="geometry">
             <mxPoint x="31" y="-292.98" as="sourcePoint" />
             <mxPoint x="-25" y="-292.98" as="targetPoint" />
             <mxPoint as="offset" />
